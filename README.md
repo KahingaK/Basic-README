@@ -80,6 +80,8 @@ git clone
 # Undo local changes to the state of a Git repo
 git reset
 
+# Delete a branch
+git branch -D
 
 
 
